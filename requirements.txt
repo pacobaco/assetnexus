@@ -1,0 +1,6 @@
+networkx
+pandas
+dash
+plotly
+scikit-learn
+node2vec
